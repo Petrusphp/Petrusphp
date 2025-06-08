@@ -12,9 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrusphp)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-## video aletorio
-<video src = "https://github.com/user-attachments/assets/95ae494e-e5c7-41fd-9017-54b8d70a3120
-"> </video>
 
 
 
