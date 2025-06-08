@@ -9,3 +9,4 @@
 <img aling ="center" alt="html 5" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img aling ="center" alt="javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img aling ="center" alt="css3" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrusphp)](https://github.com/anuraghazra/github-readme-stats)
