@@ -13,5 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrusphp)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ## video aletorio
-<video src = "https://www.tiktok.com/@princeeditz_/video/7506701747960696106?is_from_webapp=1&sender_device=pc"> </video>
+<video src = "https://github.com/user-attachments/assets/95ae494e-e5c7-41fd-9017-54b8d70a3120
+"> </video>
+
+
+
 
