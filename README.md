@@ -11,3 +11,7 @@
 <img aling ="center" alt="css3" src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrusphp)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+## video aletorio
+<video src = "https://www.tiktok.com/@princeeditz_/video/7506701747960696106?is_from_webapp=1&sender_device=pc"> </video>
+
