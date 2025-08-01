@@ -4,6 +4,9 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/petrus513801/)
 
 ![Petrus GitHub stats](https://github-readme-stats.vercel.app/api?username=petrus&show_icons=true&theme=tokyonight)
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ## 📖 linguagem que eu utilizo dia a dia
 div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
