@@ -29,8 +29,8 @@
 
 ###
 
-<br clear="both">
+ 
+![tenor (1)](https://github.com/user-attachments/assets/846080b7-26d2-4f67-ac0a-42537961eedb)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
