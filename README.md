@@ -3,7 +3,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/petrus513801/)
 
-![Petrus GitHub stats](https://github-readme-stats.vercel.app/api?username=petrus&show_icons=true&theme=tokyonight)
+![Petrus GitHub stats](https://github-readme-stats.vercel.app/api?username=petrus&show_icons=true&theme=tokyonight) >![tenor](https://github.com/user-attachments/assets/83e99d4d-86bb-4881-adad-0f07bd46146e)
 
 
 ## 📖 linguagem que eu utilizo dia a dia
@@ -17,7 +17,7 @@ div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrusphp)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
->![tenor](https://github.com/user-attachments/assets/83e99d4d-86bb-4881-adad-0f07bd46146e)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
