@@ -5,7 +5,8 @@
 
 ![Petrus GitHub stats](https://github-readme-stats.vercel.app/api?username=petrus&show_icons=true&theme=tokyonight)
 
-<div class="tenor-gif-embed" data-postid="22010992" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/smile-ramlethal-ramlethal-valentine-guilty-gear-gif-22010992">Smile Ramlethal GIF</a>from <a href="https://tenor.com/search/smile-gifs">Smile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+>![tenor](https://github.com/user-attachments/assets/83e99d4d-86bb-4881-adad-0f07bd46146e)
+
 
 ## 📖 linguagem que eu utilizo dia a dia
 div align="left">
