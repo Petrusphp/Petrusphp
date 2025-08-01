@@ -6,6 +6,7 @@
 ![Petrus GitHub stats](https://github-readme-stats.vercel.app/api?username=petrus&show_icons=true&theme=tokyonight)
 div align="left">
 >![tenor](https://github.com/user-attachments/assets/83e99d4d-86bb-4881-adad-0f07bd46146e)
+</div>
 
 
 ## 📖 linguagem que eu utilizo dia a dia
